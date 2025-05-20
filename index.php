@@ -8,7 +8,7 @@
       font-family: Arial, sans-serif;
       padding: 20px;
     }
-    h1 {
+    h3 {
       color: red;
       text-align: center;
     }
