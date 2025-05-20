@@ -9,7 +9,7 @@
       padding: 20px;
     }
     h1 {
-      color: #333;
+      color: red;
     }
   </style>
 </head>
