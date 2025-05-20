@@ -10,11 +10,12 @@
     }
     h1 {
       color: red;
+      text-align: center;
     }
   </style>
 </head>
 <body>
-  <h1>Hello Ramakrishna,Welcome to My First Blog</h1>
+  <h3>Hello Ramakrishna,Welcome to My First Blog</h3>
   <p>This is my first PHP-based web application like WordPress.</p>
 </body>
 </html>
