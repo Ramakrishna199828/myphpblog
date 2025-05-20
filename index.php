@@ -7,10 +7,11 @@
       background-color: #f2f2f2;
       font-family: Arial, sans-serif;
       padding: 20px;
+      text-align: center;
     }
     h3 {
       color: red;
-      text-align: center;
+      
     }
   </style>
 </head>
